@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Catalan (Spain) (ca-ES)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Catalan (Spain) (ca-ES)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3847098b300315a4b8fc8c0379a11b4a
+  m_SerializeEntries:
+  - m_GUID: 62be818c8edeb2240a8b15c67fd96c10
+    m_Address: MainMenu_ca-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ca-ES
+    - Preload
+  - m_GUID: e58cf61ff57c7734088820a0e69394ee
+    m_Address: GameOver_ca-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ca-ES
+    - Preload
+  - m_GUID: 9f0e18cef13177e41a9479e099a7bfd3
+    m_Address: Pause_ca-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ca-ES
+    - Preload
+  - m_GUID: 84d16ea915a56dc4db2f139741c76f2b
+    m_Address: EndGame_ca-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ca-ES
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c970cb4c34c4cfd458896b4add1da37a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a81a7cb6919ee1f498ad037b8d9e7c70, type: 2}
+    - {fileID: 11400000, guid: f2a78297e200b154e8145eb9bef610f2, type: 2}

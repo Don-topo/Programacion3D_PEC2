@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Pause_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: abdd8eee97dc89746a5eb42f87f38d08, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10568257536
+    m_Localized: Game Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33842450432
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 841057226752
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 879217004544
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 868194373632
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 854512553984
+    m_Localized: Are you sure?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
